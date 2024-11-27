@@ -85,7 +85,7 @@ JWT_SECRET=satyam
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Abhi96k/IRCTC_API_WORKINDIA_TASK.git
+   git clone https://github.com/SatyamSingh343/Workindia_API_Task.git
    cd IRCTC_API_WORKINDIA_TASK
    ```
 2. Install all necessary dependencies using npm:
