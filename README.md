@@ -162,9 +162,9 @@ npm start
 
 ```bash
        {
-  "name": "Abhishek Nangare",
-  "email": "abhisheknangare96k@gmail.com",
-  "password": "Abhi@9001"
+  "name": "Satyam Singh",
+  "email": "satyamkr304@gmail.com",
+  "password": "satyam@2003"
       }
 
 ```
@@ -176,8 +176,8 @@ npm start
 
 ```bash
     {
-  "email": "abhisheknangare96k@gmail.com",
-  "password": "Abhi@9001"
+  "email": "satyamkr304@gmail.com",
+  "password": "satyam@2003"
     }
 ```
 
