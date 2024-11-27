@@ -384,23 +384,8 @@ Description: The server running locally on `http://localhost:3000` as part of th
 
 ---
 
-#### 4. User Login via Postman
 
-![Postman Login Screenshot](./WorkIndia_Task_IRCTC/Photo/Postman_login.png)
-
-Description: A Postman request to log in a user, showcasing how the login API works.
-
----
-
-#### 5. User Registration via Postman
-
-![Postman Registration Screenshot](./WorkIndia_Task_IRCTC/Photo/Postman_register.png)
-
-Description: A Postman request to register a new user, demonstrating the registration functionality.
-
----
-
-#### 6. User Database
+#### 4. User Database
 
 ![User Database Screenshot](./WorkIndia_Task_IRCTC/Photo/User_database.png)
 
@@ -408,7 +393,7 @@ Description: The structure and data stored in the `users` table of the `irctc_db
 
 ---
 
-#### 7. Workbench SQL View
+#### 5. Workbench SQL View
 
 ![Workbench SQL Screenshot](./WorkIndia_Task_IRCTC/Photo/WorkBench_SQL.png)
 
